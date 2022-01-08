@@ -1,0 +1,14 @@
+{
+    "name": "READMeGenerator",
+    "version": "1.0.0",
+    "description": "Generates a ReadMe.md file for new projects",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Silvia Trejo",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^6.3.1"
+    }
+  }
